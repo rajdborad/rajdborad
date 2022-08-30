@@ -5,9 +5,9 @@ I'm an Engineering Student
 
 
 
-## About Me
+About Me
 
-# I’m currently learning React JS
-# I’m looking to collaborate on Open Source Projects
-# All of my projects are available at my Repositories
-# How to reach me 9512090595raj@gmail.com
+ I’m currently learning React JS
+ I’m looking to collaborate on Open Source Projects
+ All of my projects are available at my Repositories
+ How to reach me 9512090595raj@gmail.com
