@@ -1,5 +1,6 @@
 ### Hi there 👋 , I a'm Raj
-I'm an Engineering Student
+I'm a Computer Engineer.
+Working in Microsoft Dynamics 365 Finance and Operations.
 <!--
 **rajdborad/rajdborad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
